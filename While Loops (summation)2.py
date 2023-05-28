@@ -69,9 +69,4 @@ max_number = list_number[-2]
 min_number = list_number[1]
 average = (max_number + min_number)/2
 print(f'average number is: {average}')
-
-
-
-
-
            
