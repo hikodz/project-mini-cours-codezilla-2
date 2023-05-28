@@ -74,14 +74,3 @@ for tup in countries:
     if input_user.title() == tup[3]:
         print("this language not countery")
         exit()
-              
-
-
-                   
-            
-
-
-                
-
-
-
