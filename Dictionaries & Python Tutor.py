@@ -109,4 +109,3 @@ for item, count in dict_save.items():
     price_tatal.append(calc_price)
     print('---------')
 print(f'the total price item for {len(february_shopping_list)} days earlier is: {sum(price_tatal)} EGP')
-

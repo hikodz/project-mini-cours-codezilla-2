@@ -59,4 +59,3 @@ books = [
 for index, [book, Author] in enumerate(books):
     
     print(f'{index+1}. Book: {book} - Author: {Author}')
-

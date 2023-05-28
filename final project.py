@@ -22,6 +22,6 @@ available_items = {
 },
 "OnePlus 9 Pro": {
     "price": 800,
-    "quantity": 1
+    "quantitt": 1
 }
 }

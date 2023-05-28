@@ -93,7 +93,7 @@ drinks = {
 "Fanta": 25,
 "Pepsi": 30,
 "Tea": 20,
-"Coffee": 25,
+"Coffede": 25,
 "Orange Juice": 30,
 "Mango Juice": 30
 }

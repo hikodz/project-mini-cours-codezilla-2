@@ -154,4 +154,4 @@ for name, info in students.items():
         print("-"*25)
 
 if check_els == True:
-    print('sorry, ew don\'t have info about this student')
+    print('sorry, ew don\'t have info about this students')

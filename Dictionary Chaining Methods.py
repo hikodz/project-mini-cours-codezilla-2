@@ -100,4 +100,3 @@ while True:
     else:
         print('have a nice day!')
         exit()
-
