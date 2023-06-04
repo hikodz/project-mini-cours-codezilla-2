@@ -39,7 +39,7 @@ n = 1
 result_2 = 0
 
 while n <= 2000:
-    if n % 3 == 0 or n % 7 == 0:
+    if n % 3 == 0 and n % 7 == 0:
         result_2 += n      
     n += 1              
 print(result_2)  
