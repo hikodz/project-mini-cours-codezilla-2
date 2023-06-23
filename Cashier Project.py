@@ -12,7 +12,7 @@ while True:
     if print_word.startswith('#') or len(print_word) == 0:
         continue
     print(print_word) 
-### Section 9: Python Functions, Loops & more Data Types
+### Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 2:
 ##-------------------------------------
 import random
