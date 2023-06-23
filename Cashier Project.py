@@ -98,7 +98,7 @@ while len_ranking > 0:
 # print cost total use method sum:
 print('-'*12)
 print(f'Total cost is: {sum(list_ranking)}')    
-### Section 9: Python Functions, Loops & more Data Types
+### Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 6:
 ## Section 9: Python Functions, Loops & more Data Types
 #!lesson 4 - While Loops (Cashier Project) !part 1:
