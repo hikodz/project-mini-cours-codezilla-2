@@ -1,4 +1,4 @@
-### Section 9: Python Functions, Loops & more Data Types
+### Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 1:
 ##-------------------------------------
 
@@ -35,7 +35,7 @@ while number_bot != number_user:
 
 print(f'You guessed the number in: {len(list_guesse)} ')
            
-# Section 9: Python Functions, Loops & more Data Types
+# Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 3:
 #-------------------------------------
 # find the first multiple of 7 in a list of numbers
@@ -114,7 +114,7 @@ while True:
     if print_word.startswith('#') or len(print_word) == 0:
         continue
     print(print_word) 
-### Section 9: Python Functions, Loops & more Data Types
+### Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 2:
 ##-------------------------------------
 import random
@@ -137,7 +137,7 @@ while number_bot != number_user:
 
 print(f'You guessed the number in: {len(list_guesse)} ')
            
-# Section 9: Python Functions, Loops & more Data Types
+# Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 3:
 #-------------------------------------
 # find the first multiple of 7 in a list of numbers
@@ -147,7 +147,7 @@ num_lst = 0
 while numbers[num_lst] % 7 != 0:
     num_lst += 1
 print(f'The first multiple "7" is: {numbers[num_lst]}')
-# Section 9: Python Functions, Loops & more Data Types
+# Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 4:
 #-------------------------------------
 list_score = []
@@ -161,7 +161,7 @@ while True:
     
     average_score = sum(list_score)/len(list_score)
 print(f'The average of the scores is :{average_score:.2f}')        
-# Section 9: Python Functions, Loops & more Data Types
+# Section 10: Python Functions, Loops & more Data Types
 # !lesson 4 - While Loops (Cashier Project) !part 5:
 #------------------------------step1------------------------------
 list_ranking = []
